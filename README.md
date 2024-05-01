@@ -1,6 +1,6 @@
 I often do code-Snippets.
 
-They are free to use, - you can use it on your own.
+
 
 Licence -> i want to improve my code, my coding skills. - so if you know how to improve the code, i want to know it that everyone can use this "spring".
 
