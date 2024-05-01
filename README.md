@@ -14,3 +14,4 @@ you need Powershell to use that snippets (i guess that is self explained -> powe
 -> i prefer Powershell 7 because thats the supportet version from Microsoft 
 are there other pre-requesites, they are a special "readme" in the Folders.
 
+disclaimer, i know powershell, but i have no scruples to use AI (copilot is my favorite)
