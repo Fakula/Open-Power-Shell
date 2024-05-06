@@ -7,7 +7,7 @@ param (
 )
 
 
-
+[string]$defaultserver= "Example.com"
 
 
 
@@ -20,7 +20,7 @@ if (-not $credential) {
 }
 
 if (-not $Serveradress){
-    $Serveradress = "Example.com"
+    $Serveradress = $defaultserver
 }
 
 # Überprüfen Sie, ob Sie PowerShell 7 oder höher verwenden
